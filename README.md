@@ -2,7 +2,8 @@
 This depository currently contains materials used at an introducotory workshop to stable isotope analysis in R held in at CAU Kiel in May 2023. <p>
 Files include annotated R scripts and PDFs of the presentation slides including a detailed breakdown of the scripts. Data manipulation and visualisation is undertaken via the <a href = "https://www.tidyverse.org/"> Tidyverse  </a> family of packages (e.g. ggplot2, etc.). <p>
 In the future it is intended to continue to expand these resources.
-<b> Please cite the resources if you use them. </b>
+<b> Please cite the resources if you use them. </b> See associated citation file. <a href="https://zenodo.org/badge/latestdoi/682499042"><img src="https://zenodo.org/badge/682499042.svg" alt="DOI"></a>
+
 
 
 ## Content
