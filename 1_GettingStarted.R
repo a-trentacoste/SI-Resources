@@ -48,7 +48,7 @@ SIvalues <- UHCollData %>%  # make new object, CollData, then
   select(ASIL, d13C, d15N, per.C, per.N, Date)  # select column
 
 #################################################################
-=
+
 # We can add and manipulate columns using base R or tidyverse
 # Add a new column called "C.N" with the atomic C:N ratio
 
