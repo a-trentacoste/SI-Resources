@@ -80,7 +80,7 @@ SIvalues <- SIvalues %>%
 # copy/paste and adjust the code from line 20 above
 # write your code here:
 
-NeoGreece <- read_xlsx("Input/Vaiglova_2023_collagen.xlsx", 
+NeoGreece <- read_xlsx("Vaiglova_2023_collagen.xlsx", 
                        .name_repair = "universal")
 
 #####################################################################
@@ -147,7 +147,7 @@ write.xlsx(NeoGreece2,"Output/NeoGreeceCollagen3.xlsx")  # as excel file
 
 # TASK 1: SIvalues <- UHCollData %>% select(ASIL, d13C, d15N, per.C, per.N)  # make new object, UHCollData, then select columns
 
-# TASK 2: NeoGreece <- read_xlsx("Input/Vaiglova_2023_collagen.xlsx", .name_repair = "universal")
+# TASK 2: NeoGreece <- read_xlsx("Vaiglova_2023_collagen.xlsx", .name_repair = "universal")
 
 #TASK 3 
 # NeoGreece2 <- NeoGreece2 %>%        # NeoGreece2 then...
