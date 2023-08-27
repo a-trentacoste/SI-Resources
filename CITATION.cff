@@ -4,7 +4,7 @@ authors:
 - family-names: "Trentacoste"
   given-names: "Angela"
   orcid: "https://orcid.org/0000-0001-7096-5252"
-title: "SI Resources for Stable Isotope Analysis"
+title: "Resources for Stable Isotope Analysis in R"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2023-08-24
